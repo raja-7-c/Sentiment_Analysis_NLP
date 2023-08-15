@@ -2,6 +2,6 @@
 
 ***Supervised Sentiment Analysis***
 
-•	Used Naïve Bayes Classifier and Logistic Regression Classifier on the Twitter dataset from NLTK corpus consisting of 10000 tweets to classify positive, negative tweets achieving more than 99 percent accuracy on testing dataset
+•Applied machine learning techniques to classify tweets on the Twitter dataset from NLTK corpus, utilizing NaiveBayes Classifier and Logistic Regression Classifier to achieve an accuracy of over 99% on the testing dataset
 
-•	Trained a RNNs on Hugging Face’s Tweet Emotion dataset to classify in one of love, sadness, joy, surprise, fear, anger tweets to achieve 86 percent accuracy on the testing dataset 
+•Trained a Recurrent Neural Network (RNN) on Tweet Emotion dataset, successfully classifying tweets into one ofsix emotional categories (love, sadness, joy, surprise, fear, anger) with an accuracy of 86% on the testing dataset
